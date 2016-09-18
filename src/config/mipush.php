@@ -19,27 +19,7 @@ return [
 		'delete_url' => 'https://api.xmpush.xiaomi.com/v2/schedule_job/delete'
 	],
 
-	'android' => [
-		//包名
-		'bundle_id' => 'com.android.maiguo.activity',
-		//app id
-		'app_id' => '2882303761517481214',
-		//app key
-		'app_key' => '5221748126214',
-		//app secret
-		'app_secret' => 'CYoxTOws6MGs9tAXFJuoMQ=='
-	],
-
-	'ios' => [
-		//包名
-		'bundle_id' => 'com.maiguoer.ios',
-		//app id
-		'app_id' => '2882303761517491683',
-		//app key
-		'app_key' => '5121749121683',
-		//app secret
-		'app_secret' => 'nr6gjEToxUETneaE5jVyAA=='
-	],
+	
 
 	'retries' => 3
 
