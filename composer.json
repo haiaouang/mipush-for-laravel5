@@ -1,14 +1,12 @@
 {
     "name": "haiaouang/mipush-for-laravel5",
     "description": "xiao mi push",
-    "type": "xiao mi push for laravel5",
     "authors": [
         {
             "name": "haitaohuang",
             "email": "h280338871@126.com"
         }
     ],
-    "minimum-stability": "RC",
     "require": {
         "php": ">=5.3.0"
     },
